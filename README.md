@@ -1,4 +1,4 @@
-Fork of RealTools browser extension for Chrome and Firefox that currently shows GP values correctly and removes all horse image related features
+Fork of RealTools browser extension for Chrome and Firefox that currently prints GP values correctly to names and taglines, and removes all horse image related features
 
 disclaimer: i only tested this on Chrome and not Firefox because I made this for personal use and don't really care that much.
 
